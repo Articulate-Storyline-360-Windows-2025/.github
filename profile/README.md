@@ -75,36 +75,7 @@ Design **engaging e-learning courses** with **Articulate Storyline 360 Windows 2
 
 ---
 
-## 📚 Getting Started
 
-1. **Download**: Get Storyline 360 from [Articulate’s official site](https://www.articulate.com/360/storyline).  
-2. **Install**: Requires Windows 10 or 11 (64-bit), 8GB RAM, and 2GB free storage.  
-3. **Explore**: Use the Content Library 360 for templates and assets.  
-4. **Learn**: Check [E-Learning Heroes](https://community.articulate.com/) for tutorials.  
-5. **Create**: Start designing your first interactive course!
-
----
-
-## ❓ FAQ
-
-**Q: Can I use Storyline 360 on macOS?**  
-A: Storyline 360 is Windows-exclusive. macOS users need a virtual machine like Parallels Desktop.
-
-**Q: What is Articulate 360?**  
-A: Articulate 360 is a suite including Storyline 360, Rise 360, and Content Library 360 for e-learning.
-
-**Q: How do I export courses?**  
-A: Export in SCORM, AICC, or xAPI formats for LMS compatibility.
-
----
-
-## 🤝 Contribute
-
-We welcome contributions!  
-- ⭐ **Star this repo** to show your support.  
-- 🛠 **Submit issues** for bugs or suggestions.  
-- 📥 **Create pull requests** with improvements.  
-Join our community to make e-learning better!
 
 ---
 
