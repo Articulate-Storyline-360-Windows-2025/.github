@@ -1,10 +1,10 @@
 # 🎓 Articulate Storyline 360 Windows 2025
 
-![Storyline 360 Banner](https://img.shields.io/badge/Articulate-Storyline_360-blueviolet)  
+
 Design **engaging e-learning courses** with **Articulate Storyline 360 Windows 2025**! This Windows-exclusive authoring tool empowers instructional designers, educators, and corporate trainers to create interactive training modules, quizzes, and presentations with ease.
 
 [![Download Storyline 360](https://img.shields.io/badge/Download-Storyline_360-blueviolet)](https://www.articulate.com/360/storyline)  
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/storyline360-windows-2025)](https://github.com/your-username/storyline360-windows-2025/stargazers)
+
 
 ---
 
@@ -65,16 +65,13 @@ Design **engaging e-learning courses** with **Articulate Storyline 360 Windows 2
 ## 🖼 Preview
 
 **Articulate Storyline 360 Interface**  
-![Storyline UI](https://www.articulate.com/images/screenshots/storyline-hero.jpg)  
+![Storyline UI](https://cdn.prod.website-files.com/6042014b5dfbe4b82c3dda41/65fd994e81035aebf3a343a1_Articulate-Storyline-360-Trayectoria-de-desplazamiento_1.webp)  
 *Main workspace of Storyline 360 on Windows, showcasing a course design project.*
 
 **Interactive Slide Design**  
-![Interactive Slides](https://www.articulate.com/images/features/interactive-slides.jpg)  
+![Interactive Slides](https://www.articulate.com/wp-content/uploads/2023/11/storyline-360-hero.png)  
 *Dynamic slide with triggers and layers, optimized for Windows high-DPI displays.*
 
-**Course Authoring Workflow**  
-![Course Workflow](https://www.articulate.com/images/features/course-workflow.jpg)  
-*Course creation process, highlighting Windows 11 touch gestures and DirectX rendering.*
 
 ---
 
